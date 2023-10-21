@@ -62,3 +62,6 @@ int main(void) {
         previous = step;
     }
 }
+
+print("Hello World")
+    
